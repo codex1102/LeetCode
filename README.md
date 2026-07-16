@@ -7,16 +7,19 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codex1102/LeetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/codex1102/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codex1102/LeetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/codex1102/LeetCode/tree/master/0268-missing-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/codex1102/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/codex1102/LeetCode/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/codex1102/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/codex1102/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/codex1102/LeetCode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -42,4 +45,16 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [1796-second-largest-digit-in-a-string](https://github.com/codex1102/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/codex1102/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/codex1102/LeetCode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/codex1102/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
