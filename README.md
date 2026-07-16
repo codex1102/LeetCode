@@ -7,6 +7,7 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codex1102/LeetCode/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/codex1102/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/codex1102/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/codex1102/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
@@ -19,6 +20,7 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/codex1102/LeetCode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/codex1102/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/codex1102/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/codex1102/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/codex1102/LeetCode/tree/master/0509-fibonacci-number) |
@@ -63,5 +65,6 @@ A collection of LeetCode questions .
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/codex1102/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/codex1102/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
