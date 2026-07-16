@@ -11,6 +11,7 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codex1102/LeetCode/tree/master/0001-two-sum) |
+| [1796-second-largest-digit-in-a-string](https://github.com/codex1102/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/codex1102/LeetCode/tree/master/0258-add-digits) |
+## String
+|  |
+| ------- |
+| [1796-second-largest-digit-in-a-string](https://github.com/codex1102/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 <!---LeetCode Topics End-->
