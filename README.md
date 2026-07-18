@@ -9,6 +9,7 @@ A collection of LeetCode questions .
 | [0001-two-sum](https://github.com/codex1102/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codex1102/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/codex1102/LeetCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/codex1102/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/codex1102/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/codex1102/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/codex1102/LeetCode/tree/master/0283-move-zeroes) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions .
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/codex1102/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/codex1102/LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/codex1102/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -72,6 +74,7 @@ A collection of LeetCode questions .
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codex1102/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/codex1102/LeetCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/codex1102/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/codex1102/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/codex1102/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/codex1102/LeetCode/tree/master/0287-find-the-duplicate-number) |
