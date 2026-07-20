@@ -15,6 +15,7 @@ A collection of LeetCode questions .
 | [0268-missing-number](https://github.com/codex1102/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/codex1102/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/codex1102/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/codex1102/LeetCode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/codex1102/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions .
 | [0088-merge-sorted-array](https://github.com/codex1102/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/codex1102/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/codex1102/LeetCode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/codex1102/LeetCode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/codex1102/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
