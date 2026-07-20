@@ -59,6 +59,7 @@ A collection of LeetCode questions .
 | [0242-valid-anagram](https://github.com/codex1102/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/codex1102/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/codex1102/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0796-rotate-string](https://github.com/codex1102/LeetCode/tree/master/0796-rotate-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/codex1102/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Binary Search
 |  |
@@ -103,4 +104,8 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/codex1102/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/codex1102/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
