@@ -67,6 +67,7 @@ A collection of LeetCode questions .
 | [0345-reverse-vowels-of-a-string](https://github.com/codex1102/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/codex1102/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/codex1102/LeetCode/tree/master/0796-rotate-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/codex1102/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1796-second-largest-digit-in-a-string](https://github.com/codex1102/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Binary Search
 |  |
@@ -124,4 +125,5 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/codex1102/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/codex1102/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
