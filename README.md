@@ -17,6 +17,7 @@ A collection of LeetCode questions .
 | [0283-move-zeroes](https://github.com/codex1102/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/codex1102/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/codex1102/LeetCode/tree/master/0414-third-maximum-number) |
+| [0643-maximum-average-subarray-i](https://github.com/codex1102/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/codex1102/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -119,4 +120,8 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/codex1102/LeetCode/tree/master/0796-rotate-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/codex1102/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
