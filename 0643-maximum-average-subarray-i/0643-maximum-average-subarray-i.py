@@ -9,6 +9,7 @@ class Solution:
 
             window_sum = window_sum - nums[i-k] + nums[i]
 
-            max_sum = max(max_sum, window_sum)
+            if window_sum > max_sum:
+                max_sum = window_sum
 
         return max_sum / k
