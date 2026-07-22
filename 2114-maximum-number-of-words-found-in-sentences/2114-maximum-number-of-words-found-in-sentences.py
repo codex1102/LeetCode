@@ -3,7 +3,7 @@ class Solution:
         maximum = 0
 
         for sentence in sentences:
-            words = sentence.split()
-            maximum = max(maximum, len(words))
+            words = sentence.count(" ") + 1
+            maximum = max(maximum, words)
 
         return maximum
