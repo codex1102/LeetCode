@@ -44,6 +44,7 @@ A collection of LeetCode questions .
 | [0258-add-digits](https://github.com/codex1102/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/codex1102/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/codex1102/LeetCode/tree/master/0509-fibonacci-number) |
+| [2413-smallest-even-multiple](https://github.com/codex1102/LeetCode/tree/master/2413-smallest-even-multiple) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/codex1102/LeetCode/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/codex1102/LeetCode/tree/master/2413-smallest-even-multiple) |
 ## String
 |  |
 | ------- |
