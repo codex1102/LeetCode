@@ -1,6 +1,6 @@
 class Solution:
     def totalFruit(self, fruits):
-        left = 0
+        left = 0     #left
         count = {}
         maximum = 0
 
