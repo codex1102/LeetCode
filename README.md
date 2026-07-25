@@ -27,6 +27,7 @@ A collection of LeetCode questions .
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/codex1102/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/codex1102/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/codex1102/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/codex1102/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/codex1102/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions .
 | [0509-fibonacci-number](https://github.com/codex1102/LeetCode/tree/master/0509-fibonacci-number) |
 | [2413-smallest-even-multiple](https://github.com/codex1102/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/codex1102/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/codex1102/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
