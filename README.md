@@ -101,6 +101,7 @@ A collection of LeetCode questions .
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codex1102/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/codex1102/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/codex1102/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/codex1102/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/codex1102/LeetCode/tree/master/2942-find-words-containing-character) |
 ## Binary Search
 |  |
