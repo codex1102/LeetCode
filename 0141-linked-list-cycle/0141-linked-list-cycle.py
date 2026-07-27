@@ -1,17 +1,15 @@
 class Solution:
     def hasCycle(self, head):
 
-        visited = set()
+        slow = head
+        fast = head
 
-        current = head
+        while fast and fast.next:
 
-        while current:
+            slow = slow.next
+            fast = fast.next.next
 
-            if current in visited:
+            if slow == fast:
                 return True
-
-            visited.add(current)
-
-            current = current.next
 
         return False
