@@ -1,0 +1,14 @@
+class Solution:
+    def maximumDifference(self, nums):
+
+        ans = -1
+        n = len(nums)
+
+        for i in range(n):
+
+            for j in range(i + 1, n):
+
+                if nums[j] > nums[i]:
+                    ans = max(ans, nums[j] - nums[i])
+
+        return ans
