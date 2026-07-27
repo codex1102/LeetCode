@@ -28,6 +28,7 @@ A collection of LeetCode questions .
 | [1672-richest-customer-wealth](https://github.com/codex1102/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/codex1102/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/codex1102/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2418-sort-the-people](https://github.com/codex1102/LeetCode/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/codex1102/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/codex1102/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2788-split-strings-by-separator](https://github.com/codex1102/LeetCode/tree/master/2788-split-strings-by-separator) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions .
 | [0904-fruit-into-baskets](https://github.com/codex1102/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1796-second-largest-digit-in-a-string](https://github.com/codex1102/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codex1102/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2418-sort-the-people](https://github.com/codex1102/LeetCode/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/codex1102/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions .
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codex1102/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/codex1102/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/codex1102/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2418-sort-the-people](https://github.com/codex1102/LeetCode/tree/master/2418-sort-the-people) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/codex1102/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2788-split-strings-by-separator](https://github.com/codex1102/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2942-find-words-containing-character](https://github.com/codex1102/LeetCode/tree/master/2942-find-words-containing-character) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions .
 | [0268-missing-number](https://github.com/codex1102/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/codex1102/LeetCode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/codex1102/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2418-sort-the-people](https://github.com/codex1102/LeetCode/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
