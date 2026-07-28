@@ -33,6 +33,7 @@ A collection of LeetCode questions .
 | [1550-three-consecutive-odds](https://github.com/codex1102/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/codex1102/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/codex1102/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1929-concatenation-of-array](https://github.com/codex1102/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/codex1102/LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/codex1102/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/codex1102/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/codex1102/LeetCode/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/codex1102/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
