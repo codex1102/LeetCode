@@ -142,6 +142,7 @@ A collection of LeetCode questions .
 | [2788-split-strings-by-separator](https://github.com/codex1102/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2942-find-words-containing-character](https://github.com/codex1102/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/codex1102/LeetCode/tree/master/3019-number-of-changing-keys) |
+| [3110-score-of-a-string](https://github.com/codex1102/LeetCode/tree/master/3110-score-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
