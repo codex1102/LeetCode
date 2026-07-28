@@ -26,6 +26,7 @@ A collection of LeetCode questions .
 | [0904-fruit-into-baskets](https://github.com/codex1102/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/codex1102/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/codex1102/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/codex1102/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/codex1102/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1550-three-consecutive-odds](https://github.com/codex1102/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/codex1102/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions .
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codex1102/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/codex1102/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/codex1102/LeetCode/tree/master/0509-fibonacci-number) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/codex1102/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Recursion
 |  |
 | ------- |
