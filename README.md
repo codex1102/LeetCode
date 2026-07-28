@@ -43,6 +43,7 @@ A collection of LeetCode questions .
 | [2788-split-strings-by-separator](https://github.com/codex1102/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/codex1102/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/codex1102/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3668-restore-finishing-order](https://github.com/codex1102/LeetCode/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions .
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codex1102/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/codex1102/LeetCode/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/codex1102/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3668-restore-finishing-order](https://github.com/codex1102/LeetCode/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
 | ------- |
