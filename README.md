@@ -10,6 +10,7 @@ A collection of LeetCode questions .
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codex1102/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/codex1102/LeetCode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/codex1102/LeetCode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/codex1102/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/codex1102/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/codex1102/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/codex1102/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions .
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/codex1102/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/codex1102/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codex1102/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/codex1102/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions .
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codex1102/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/codex1102/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/codex1102/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/codex1102/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/codex1102/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/codex1102/LeetCode/tree/master/0125-valid-palindrome) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions .
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/codex1102/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/codex1102/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Matrix
 |  |
@@ -243,4 +247,8 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/codex1102/LeetCode/tree/master/0053-maximum-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/codex1102/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
