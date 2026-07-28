@@ -139,6 +139,7 @@ A collection of LeetCode questions .
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/codex1102/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2788-split-strings-by-separator](https://github.com/codex1102/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2942-find-words-containing-character](https://github.com/codex1102/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3019-number-of-changing-keys](https://github.com/codex1102/LeetCode/tree/master/3019-number-of-changing-keys) |
 ## Binary Search
 |  |
 | ------- |
