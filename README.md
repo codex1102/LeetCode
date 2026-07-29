@@ -25,6 +25,7 @@ A collection of LeetCode questions .
 | [0287-find-the-duplicate-number](https://github.com/codex1102/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/codex1102/LeetCode/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/codex1102/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/codex1102/LeetCode/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/codex1102/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/codex1102/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/codex1102/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/codex1102/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/codex1102/LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/codex1102/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
