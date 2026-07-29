@@ -24,6 +24,7 @@ A collection of LeetCode questions .
 | [0283-move-zeroes](https://github.com/codex1102/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/codex1102/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/codex1102/LeetCode/tree/master/0414-third-maximum-number) |
+| [0525-contiguous-array](https://github.com/codex1102/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/codex1102/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/codex1102/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/codex1102/LeetCode/tree/master/0724-find-pivot-index) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions .
 | [0387-first-unique-character-in-a-string](https://github.com/codex1102/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/codex1102/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codex1102/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0525-contiguous-array](https://github.com/codex1102/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/codex1102/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/codex1102/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/codex1102/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/codex1102/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/codex1102/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/codex1102/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/codex1102/LeetCode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/codex1102/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
