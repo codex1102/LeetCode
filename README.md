@@ -38,6 +38,7 @@ A collection of LeetCode questions .
 | [1004-max-consecutive-ones-iii](https://github.com/codex1102/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/codex1102/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/codex1102/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1528-shuffle-string](https://github.com/codex1102/LeetCode/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/codex1102/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/codex1102/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/codex1102/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions .
 | [0709-to-lower-case](https://github.com/codex1102/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/codex1102/LeetCode/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/codex1102/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1528-shuffle-string](https://github.com/codex1102/LeetCode/tree/master/1528-shuffle-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/codex1102/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codex1102/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/codex1102/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
