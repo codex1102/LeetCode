@@ -34,6 +34,7 @@ A collection of LeetCode questions .
 | [0918-maximum-sum-circular-subarray](https://github.com/codex1102/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/codex1102/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/codex1102/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/codex1102/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/codex1102/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/codex1102/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/codex1102/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions .
 | [0345-reverse-vowels-of-a-string](https://github.com/codex1102/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/codex1102/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/codex1102/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/codex1102/LeetCode/tree/master/0986-interval-list-intersections) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/codex1102/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Database
 |  |
@@ -279,4 +281,8 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/codex1102/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/codex1102/LeetCode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
