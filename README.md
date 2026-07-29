@@ -147,6 +147,7 @@ A collection of LeetCode questions .
 | [0438-find-all-anagrams-in-a-string](https://github.com/codex1102/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0709-to-lower-case](https://github.com/codex1102/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/codex1102/LeetCode/tree/master/0796-rotate-string) |
+| [1108-defanging-an-ip-address](https://github.com/codex1102/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/codex1102/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/codex1102/LeetCode/tree/master/1528-shuffle-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/codex1102/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
