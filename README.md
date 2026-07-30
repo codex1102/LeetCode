@@ -223,6 +223,7 @@ A collection of LeetCode questions .
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/codex1102/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/codex1102/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/codex1102/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
@@ -272,6 +273,7 @@ A collection of LeetCode questions .
 | ------- |
 | [0020-valid-parentheses](https://github.com/codex1102/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/codex1102/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/codex1102/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/codex1102/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/codex1102/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/codex1102/LeetCode/tree/master/0739-daily-temperatures) |
@@ -298,4 +300,8 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/codex1102/LeetCode/tree/master/0986-interval-list-intersections) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/codex1102/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
