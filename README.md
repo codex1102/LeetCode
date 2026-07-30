@@ -94,6 +94,7 @@ A collection of LeetCode questions .
 | [0258-add-digits](https://github.com/codex1102/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/codex1102/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/codex1102/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/codex1102/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/codex1102/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/codex1102/LeetCode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/codex1102/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/codex1102/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/codex1102/LeetCode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/codex1102/LeetCode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/codex1102/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Number Theory
@@ -152,6 +154,7 @@ A collection of LeetCode questions .
 | [0344-reverse-string](https://github.com/codex1102/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/codex1102/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/codex1102/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/codex1102/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/codex1102/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codex1102/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0709-to-lower-case](https://github.com/codex1102/LeetCode/tree/master/0709-to-lower-case) |
