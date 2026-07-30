@@ -136,6 +136,7 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codex1102/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/codex1102/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/codex1102/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/codex1102/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/codex1102/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions .
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/codex1102/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/codex1102/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/codex1102/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codex1102/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
