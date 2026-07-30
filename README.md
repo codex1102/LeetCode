@@ -155,6 +155,7 @@ A collection of LeetCode questions .
 | [1108-defanging-an-ip-address](https://github.com/codex1102/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/codex1102/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/codex1102/LeetCode/tree/master/1528-shuffle-string) |
+| [1544-make-the-string-great](https://github.com/codex1102/LeetCode/tree/master/1544-make-the-string-great) |
 | [1796-second-largest-digit-in-a-string](https://github.com/codex1102/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codex1102/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/codex1102/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions .
 | [0682-baseball-game](https://github.com/codex1102/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/codex1102/LeetCode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codex1102/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/codex1102/LeetCode/tree/master/1544-make-the-string-great) |
 ## Matrix
 |  |
 | ------- |
