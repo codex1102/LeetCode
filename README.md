@@ -29,6 +29,7 @@ A collection of LeetCode questions .
 | [0525-contiguous-array](https://github.com/codex1102/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/codex1102/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/codex1102/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/codex1102/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/codex1102/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/codex1102/LeetCode/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/codex1102/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/codex1102/LeetCode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/codex1102/LeetCode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/codex1102/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions .
 | [0020-valid-parentheses](https://github.com/codex1102/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/codex1102/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/codex1102/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/codex1102/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/codex1102/LeetCode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codex1102/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Matrix
