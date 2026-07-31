@@ -71,6 +71,7 @@ A collection of LeetCode questions .
 | [0217-contains-duplicate](https://github.com/codex1102/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codex1102/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/codex1102/LeetCode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/codex1102/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/codex1102/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/codex1102/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codex1102/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions .
 | [0242-valid-anagram](https://github.com/codex1102/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/codex1102/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/codex1102/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/codex1102/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/codex1102/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/codex1102/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/codex1102/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions .
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/codex1102/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/codex1102/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
 |  |
