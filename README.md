@@ -42,6 +42,7 @@ A collection of LeetCode questions .
 | [0977-squares-of-a-sorted-array](https://github.com/codex1102/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/codex1102/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/codex1102/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1089-duplicate-zeros](https://github.com/codex1102/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/codex1102/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/codex1102/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/codex1102/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions .
 | [0876-middle-of-the-linked-list](https://github.com/codex1102/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/codex1102/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/codex1102/LeetCode/tree/master/0986-interval-list-intersections) |
+| [1089-duplicate-zeros](https://github.com/codex1102/LeetCode/tree/master/1089-duplicate-zeros) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/codex1102/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Database
 |  |
