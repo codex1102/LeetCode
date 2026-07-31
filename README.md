@@ -37,6 +37,7 @@ A collection of LeetCode questions .
 | [0739-daily-temperatures](https://github.com/codex1102/LeetCode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/codex1102/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/codex1102/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/codex1102/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/codex1102/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/codex1102/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/codex1102/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions .
 | [0242-valid-anagram](https://github.com/codex1102/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/codex1102/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/codex1102/LeetCode/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/codex1102/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/codex1102/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/codex1102/LeetCode/tree/master/2418-sort-the-people) |
 ## Two Pointers
@@ -237,6 +239,7 @@ A collection of LeetCode questions .
 | [0344-reverse-string](https://github.com/codex1102/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/codex1102/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/codex1102/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/codex1102/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/codex1102/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/codex1102/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/codex1102/LeetCode/tree/master/1089-duplicate-zeros) |
