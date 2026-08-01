@@ -52,6 +52,7 @@ A collection of LeetCode questions .
 | [1480-running-sum-of-1d-array](https://github.com/codex1102/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/codex1102/LeetCode/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/codex1102/LeetCode/tree/master/1550-three-consecutive-odds) |
+| [1598-crawler-log-folder](https://github.com/codex1102/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1672-richest-customer-wealth](https://github.com/codex1102/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/codex1102/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1929-concatenation-of-array](https://github.com/codex1102/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions .
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/codex1102/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/codex1102/LeetCode/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/codex1102/LeetCode/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/codex1102/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1796-second-largest-digit-in-a-string](https://github.com/codex1102/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codex1102/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/codex1102/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions .
 | [0739-daily-temperatures](https://github.com/codex1102/LeetCode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codex1102/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/codex1102/LeetCode/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/codex1102/LeetCode/tree/master/1598-crawler-log-folder) |
 ## Matrix
 |  |
 | ------- |
