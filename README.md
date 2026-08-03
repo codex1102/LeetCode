@@ -256,6 +256,7 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/codex1102/LeetCode/tree/master/0175-combine-two-tables) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/codex1102/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Queue
 |  |
 | ------- |
