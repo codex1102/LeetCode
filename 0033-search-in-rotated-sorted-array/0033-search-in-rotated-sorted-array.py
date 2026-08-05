@@ -1,6 +1,6 @@
 class Solution:
 
-    def search(self, nums, target): #kk
+    def search(self, nums, target): #kkghj 66554526
 
         left = 0
         right = len(nums) - 1
