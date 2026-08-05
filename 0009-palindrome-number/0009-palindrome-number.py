@@ -1,7 +1,7 @@
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         # Negative numbers are not palindromes. ..
-        # Numbers ending in 0 (except 0 itself) cannot be palindromes.
+        # Numbers ending in 0 (except 0 itself) cannot be palindromes....
         if x < 0 or (x % 10 == 0 and x != 0):
             return False
 
