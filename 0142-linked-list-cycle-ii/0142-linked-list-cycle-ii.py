@@ -1,7 +1,7 @@
 class Solution:
     def detectCycle(self, head):
 
-        slow = head  #tt55
+        slow = head  #tt55rgnhjjjj
         fast = head
 
         # Phase 1: Detect cycle
