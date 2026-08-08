@@ -6,7 +6,7 @@ class Solution:
         current_max = nums[0]
         max_sum = nums[0]
 
-        current_min = nums[0]
+        current_min = nums[0]  #gudscvsf
         min_sum = nums[0]
 
         for i in range(1, len(nums)):
