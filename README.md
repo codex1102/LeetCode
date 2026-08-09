@@ -365,4 +365,9 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/codex1102/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/codex1102/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/codex1102/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
