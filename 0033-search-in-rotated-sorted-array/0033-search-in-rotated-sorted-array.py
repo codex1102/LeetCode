@@ -1,6 +1,6 @@
 class Solution:
 
-    def search(self, nums, target): #
+    def search(self, nums, target): #gdgd
 
         left = 0
         right = len(nums) - 1
